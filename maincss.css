@@ -28,3 +28,10 @@ body {
   color: blue;
   width: fit-content;
 }
+#credits {
+  border-style: outset;
+  border-color: red;
+  width: fit-content;
+  color: yellow;
+  border: 3px;
+}
