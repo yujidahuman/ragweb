@@ -21,17 +21,11 @@ body {
   text-align: center;
 }
 
-#contact {
-  border: 3px;
-  border-color: yellow;
-  border-style: outset;
-  color: blue;
+#contact{
+  color:blue;
+  border-style:outset;
+  border-color:yellow;
+  border-width:3px;
   width: fit-content;
 }
-#credits {
-  border-style: outset;
-  border-color: red;
-  width: fit-content;
-  color: yellow;
-  border: 3px;
-}
+
