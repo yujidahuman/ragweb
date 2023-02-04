@@ -29,3 +29,10 @@ body {
   width: fit-content;
 }
 
+#title{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:blueviolet;
+  border-style:dashed;
+  border-color:red;
+  border-width:5px;
+}
