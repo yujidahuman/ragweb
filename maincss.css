@@ -27,6 +27,8 @@ body {
   border-color:yellow;
   border-width:3px;
   width: fit-content;
+  text-align:center;
+  margin:auto;
 }
 
 #title{
