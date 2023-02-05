@@ -19,6 +19,7 @@ body {
   color: black;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   text-align: center;
+  font-size:x-large;
 }
 
 #contact{
@@ -39,4 +40,11 @@ body {
   border-width:5px;
   width:fit-content;
   text-align:center;
+}
+
+#credits{
+  border-color:yellow;
+  border-style:outset;
+  border-width:3px;
+  color:blue;
 }
