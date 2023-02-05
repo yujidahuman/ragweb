@@ -20,18 +20,10 @@ body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   text-align: center;
   font-size:x-large;
-  background-image:url(donuts.jpg);
+  background-color:green;
 }
 
-#contact{
-  color:blue;
-  border-style:outset;
-  border-color:yellow;
-  border-width:3px;
-  width: fit-content;
-  text-align:center;
-  margin:auto;
-}
+
 
 #title{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -43,9 +35,20 @@ body {
   text-align:center;
 }
 
-#credits{
-  border-color:yellow;
-  border-style:outset;
-  border-width:3px;
-  color:blue;
+.credits{
+  color:purple;
+  text-align:center;
+  display:block;
+}
+
+#menu{
+  text-align:center;
+  font-family:'Courier New', Courier, monospace;
+  font-size:large;
+  text-shadow:rgb(115, 255, 0) 0 2px;
+}
+
+#yuji{
+  text-align:left;
+  margin-top:580px;
 }
