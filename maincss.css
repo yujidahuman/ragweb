@@ -31,8 +31,9 @@ body {
   border-style:dashed;
   border-color:red;
   border-width:5px;
-  width:fit-content;
+  width:max-content;
   text-align:center;
+  display:block;
 }
 
 .credits{
