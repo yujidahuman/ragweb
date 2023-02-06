@@ -1,0 +1,10 @@
+<div id="content"></div>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+	const mdUrl = new URLSearchParams(location.search);
+	fetch(mdUrl.get("url"))
+		.then((d) => d.text())
+		.then((t) => {
+			document.querySelector("#content").innerHTML = marked.parse(t);
+		});
+</script>
