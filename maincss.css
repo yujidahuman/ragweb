@@ -21,17 +21,12 @@ body {
   text-align: center;
   font-size: x-large;
   background-color: green;
+  padding-bottom:25px;
 }
 
 #title {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: blueviolet;
-  border-style: dashed;
-  border-color: red;
-  border-width: 5px;
-  width: max-content;
   text-align: center;
-  display: block;
 }
 
 .credits {
@@ -47,7 +42,26 @@ body {
   text-shadow: rgb(115, 255, 0) 0 2px;
 }
 
-#yuji {
-  text-align: left;
-  margin-top: auto;
+.al{
+  text-align:center;
+  font-size:larger;
+  color:white;
+  text-shadow:rgb(255, 0, 0) 0 2px;
+  padding-bottom:25px;
+
+}
+
+#secpa{
+  background-color:teal;
+}
+
+#button{
+  text-align:center;
+  display:block;
+  border-style:outset;
+  border-width:3px;
+  border-color:yellow;
+  color:black;
+  width:fit-content;
+  margin:auto;
 }
