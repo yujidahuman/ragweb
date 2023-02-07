@@ -21,7 +21,7 @@ body {
   text-align: center;
   font-size: x-large;
   background-color: green;
-  padding-bottom:20px;
+  padding-bottom:15px;
 }
 
 #title {
@@ -33,6 +33,13 @@ body {
   color: purple;
   text-align: center;
   display: block;
+  border-width:3px;
+  border-style:inset;
+  border-color:red;
+  display:block;
+  margin:auto;
+  margin-bottom:5px;  
+  width:fit-content;
 }
 
 #menu {
