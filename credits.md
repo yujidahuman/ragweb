@@ -10,7 +10,7 @@
 
 # Website Credits
 
-Website Design/Coder: Yuji Reinecke (7th Grade)
+Website Designer/Coder: Yuji Reinecke (7th Grade)
 
 
 
