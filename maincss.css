@@ -6,10 +6,10 @@ body {
 #main {
   text-align: center;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: white;
-  text-shadow: rgb(38, 164, 47) 0 3px;
+  color: yellow;
+  text-shadow: rgb(242, 13, 13) 0 3px;
   margin-bottom: 20px;
-  background-image: url(donuts.jpg);
+  background-image: url("sweets.jpg");
   padding: 50px;
   margin-top: 0;
   font-size: 40px;
