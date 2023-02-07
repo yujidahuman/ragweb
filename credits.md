@@ -8,6 +8,8 @@
     }
 </style>
 
+<title>Credits</title>
+
 # Website Credits
 
 Website Design/Coder: Yuji Reinecke (7th Grade)
