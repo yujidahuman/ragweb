@@ -1,18 +1,24 @@
 body {
   margin: 0;
-  background-image:url('sweets.jpg')
+  background-image:url('sweets.jpg');
 }
 
 #main {
   text-align: center;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  background-image:url('sweets.jpg');
-  text-shadow: rgb(242, 13, 13) 0 3px;
+  text-shadow: rgb(105, 242, 13) 0 3px;
   margin-bottom: 20px;
-  background-color:black;
+  border-style:double;
+  border-width:4px;
+  margin:auto;
+  display:block;
+  width:fit-content;
+  background-image:url('rainbow.gif');
+  border-color:red;
   padding: 50px;
   margin-top: 0;
   font-size: 40px;
+  color:black;
 }
 
 .bake {
