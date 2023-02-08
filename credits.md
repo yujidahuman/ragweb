@@ -8,11 +8,10 @@
     }
 </style>
 
+<title>Credits</title>
+
 # Website Credits
 
 Website Designer/Coder: Yuji Reinecke (7th Grade)
-
-
-
 
 Website Hosting and REPO Storage: Github INC/Github Pages

@@ -6,10 +6,10 @@ body {
 #main {
   text-align: center;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: white;
-  text-shadow: rgb(38, 164, 47) 0 3px;
+  color: yellow;
+  text-shadow: rgb(242, 13, 13) 0 3px;
   margin-bottom: 20px;
-  background-image: url(baked.jpg);
+  background-image: url("sweets.jpg");
   padding: 50px;
   margin-top: 0;
   font-size: 40px;
@@ -17,11 +17,11 @@ body {
 
 .bake {
   color: black;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: 'Caveat', cursive;
   text-align: center;
   font-size: x-large;
   background-color: green;
-  padding-bottom:20px;
+  padding-bottom:15px;
 }
 
 #title {
@@ -33,6 +33,13 @@ body {
   color: purple;
   text-align: center;
   display: block;
+  border-width:3px;
+  border-style:inset;
+  border-color:red;
+  display:block;
+  margin:auto;
+  margin-bottom:5px;  
+  width:fit-content;
 }
 
 #menu {
