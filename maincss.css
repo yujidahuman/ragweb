@@ -1,15 +1,15 @@
 body {
   margin: 0;
-  background-color: rgb(214, 214, 214);
+  background-image:url('sweets.jpg')
 }
 
 #main {
   text-align: center;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: yellow;
+  background-image:url('sweets.jpg');
   text-shadow: rgb(242, 13, 13) 0 3px;
   margin-bottom: 20px;
-  background-image: url("sweets.jpg");
+  background-color:black;
   padding: 50px;
   margin-top: 0;
   font-size: 40px;
@@ -30,23 +30,25 @@ body {
 }
 
 .credits {
-  color: purple;
+  color: white;
   text-align: center;
   display: block;
   border-width:3px;
   border-style:inset;
-  border-color:red;
+  border-color:greenyellow;
   display:block;
   margin:auto;
   margin-bottom:5px;  
   width:fit-content;
+  background-color:black;
 }
+
 
 #menu {
   text-align: center;
   font-family: "Courier New", Courier, monospace;
   font-size: large;
-  text-shadow: rgb(115, 255, 0) 0 2px;
+  text-shadow: rgb(147, 190, 29) 0 2px;
 }
 
 .al{
