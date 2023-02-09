@@ -87,4 +87,13 @@ body {
 #sale{
   text-align:center;
   color:blue;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tyree{
+  text-align:center;
+  color:green;
+  font-size:larger;
+  font-family:"Comic Sans MS", "Comic Sans", cursive;
+
 }
