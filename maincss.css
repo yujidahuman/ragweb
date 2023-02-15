@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+#br{
+  background-image:url('sweets.jpg');
+}
+
 #main {
   text-align: center;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -89,6 +93,14 @@ body {
   text-align:center;
   color:blue;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color:black;
+  border-width:4px;
+  border-color:yellow;
+  border-style:dashed;
+  margin:auto;
+  margin-bottom:20px;
+  width:fit-content;
+  display:block;
 }
 
 .tyree{
@@ -96,7 +108,14 @@ body {
   color:green;
   font-size:larger;
   font-family:"Comic Sans MS", "Comic Sans", cursive;
-  padding-bottom:5px;
+  background-color:black;
+  border-color:yellow;
+  border-width:3px;
+  border-style:inset;
+  width:fit-content;
+  margin:auto;
+  margin-bottom:15px;
+  display:block;
 }
 
 #qr{
