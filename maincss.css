@@ -96,12 +96,11 @@ body {
   color:green;
   font-size:larger;
   font-family:"Comic Sans MS", "Comic Sans", cursive;
-  padding-bottom:15px;
+  padding-bottom:5px;
 }
 
 #qr{
   display:block;
   margin-left:auto;
   margin-right:auto;
-  
 }
