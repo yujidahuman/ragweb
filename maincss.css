@@ -25,11 +25,11 @@ body {
 }
 
 .bake {
-  color: black;
-  font-family: 'Caveat', cursive;
+  color: yellow;
+  font-family: 'Nunito', sans-serif;
   text-align: center;
   font-size: x-large;
-  background-color: green;
+  background-color: black;
   padding-bottom:15px;
 }
 
@@ -40,7 +40,7 @@ body {
 
 .credits {
   color: white;
-  text-align: center;
+  text-align: center; 
   display: block;
   border-width:3px;
   border-style:inset;
