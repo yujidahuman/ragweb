@@ -124,21 +124,3 @@ body {
   margin-right:auto;
 }
 
-a:link{
-  color:blue;
-  background-color:transparent;
-  text-decoration:none;
-}
-
-a:hover{
-  color:aqua;
-  background-color:transparent;
-  text-decoration:none;
-}
-
-a:visited{
-  color:blue;
-  background-color:transparent;
-  text-decoration:none;
-
-}
