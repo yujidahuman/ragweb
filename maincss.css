@@ -105,9 +105,9 @@ body {
 
 .tyree{
   text-align:center;
-  color:green;
+  color:white;
   font-size:larger;
-  font-family:"Comic Sans MS", "Comic Sans", cursive;
+  font-family:'Tilt Neon', cursive;
   background-color:black;
   border-color:yellow;
   border-width:3px;
@@ -124,6 +124,21 @@ body {
   margin-right:auto;
 }
 
+a:link{
+  color:blue;
+  background-color:transparent;
+  text-decoration:none;
+}
 
+a:hover{
+  color:aqua;
+  background-color:transparent;
+  text-decoration:none;
+}
 
+a:visited{
+  color:blue;
+  background-color:transparent;
+  text-decoration:none;
 
+}
